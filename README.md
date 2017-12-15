@@ -1,3 +1,3 @@
 # learn_coding
 
-！[learning](timg_small.jpeg)
+![learning](timg_small.jpeg)
