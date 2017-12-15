@@ -1,0 +1,15 @@
+# XinXin Learn Coding
+
+## 2017/12/16 学习参考与笔记
+
+### Javascript的语法熟悉
+
+#### 准备工作
+
+编写JavaScript脚本不需要任何特殊的软件，一个普通的文本编辑器和一个web浏览器就足够了。
+（我们一直使用的Code和SublimeText都是很好的编辑器）
+
+用JavaScript编写的代码必须通过HTML/XHTML文档才能执行。
+有两种方法可以做到这点。
+
+第一种方法是将JavaScript
