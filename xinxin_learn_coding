@@ -14,7 +14,7 @@
 
 第一种方法是将JavaScript代码放到文档<head>标签中的<script>标签之间：
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,7 +33,7 @@
 一种更好的方法是把JavaScript代码存为一个扩展名为.js的独立文件。
 典型的做法是在文档的<head>部分放一个<script>标签，并把它的src属性指向该文件
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -49,7 +49,7 @@
 
 但最好的做法是把<script>标签放到HTML文档的最后，</body>标签之前：
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
