@@ -12,4 +12,21 @@
 用JavaScript编写的代码必须通过HTML/XHTML文档才能执行。
 有两种方法可以做到这点。
 
-第一种方法是将JavaScript
+第一种方法是将JavaScript代码放到文档<head>标签中的<script>标签之间：
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Example</title>
+  <script>
+    *Javascript goes here...*
+  </script>
+</head>
+<body>
+  *Mark-up goes here...*
+</body>
+</html>
+```
+
